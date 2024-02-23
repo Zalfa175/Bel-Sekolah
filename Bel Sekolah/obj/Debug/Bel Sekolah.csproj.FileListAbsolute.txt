@@ -1,0 +1,60 @@
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.config
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.csprojAssemblyReference.cache
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.csproj.CoreCompileInputs.cache
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.exe
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.pdb
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Jadwal.accdb
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Awal Upacara.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Akhir Pekan 1.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Akhir Pekan 2.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Akhir Pelajaran A.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Akhir Pelajaran B.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\awal jam ke 1.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Istirahat I.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Istirahat II.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 1.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 2.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 3.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 4.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 5.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 6.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 7.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 8.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 9.wav
+D:\N. Zalfa IK 2\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\pembuka.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Jadwal.accdb
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\5 Menit Awal Upacara.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Akhir Pekan 1.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Akhir Pekan 2.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Akhir Pelajaran A.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Akhir Pelajaran B.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\awal jam ke 1.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Istirahat I.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Istirahat II.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 1.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 2.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 3.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 4.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 5.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 6.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 7.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 8.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\Pelajaran ke 9.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Suara\pembuka.wav
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.config
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.csprojAssemblyReference.cache
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.csproj.CoreCompileInputs.cache
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.exe
+G:\C#\Latihan\Bel Sekolah\Bel Sekolah\obj\Debug\Bel Sekolah.pdb
